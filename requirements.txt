@@ -1,0 +1,6 @@
+# list of library nee dto install 
+
+langgraph
+langchain
+langchain_openai
+dotenv
